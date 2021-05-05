@@ -19,7 +19,10 @@ dependencies:
   http: ^0.13.3
   fluttertoast: ^8.0.6
   numberpicker: ^2.1.1
-  floating_search_bar: ^0.3.0
+  floating_search_bar:
+    git:
+      url: https://github.com/PragnaKiran/floating_search_bar.git
+      ref: e193627
    
   step_progress_indicator: ^0.2.5+8
   double_back_to_close_app: ^2.0.1
